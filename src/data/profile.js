@@ -1,5 +1,5 @@
 const profile = {
-  name: 'S.Berkay Aydın',
+  name: 'Wahlul',
   title: 'Full Stack Developer',
   mail: 'sbaydin06@gmail.com',
   phoneNumber: '+90 (507) 808 4130',
